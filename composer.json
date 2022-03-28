@@ -1,11 +1,11 @@
 {
-  "name": "media24si/upn-generator",
+  "name": "hkristjan/upn-generator",
   "description": "UPN form generator",
   "license": "MIT",
   "keywords": [
     "upn"
   ],
-  "homepage": "https://github.com/Media24si/UpnGenerator",
+  "homepage": "https://github.com/hkristjan/UpnGenerator",
   "authors": [
     {
       "name": "Bostjan Oblak",
