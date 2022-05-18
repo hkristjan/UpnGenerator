@@ -124,7 +124,7 @@ class UpnGenerator
             $this->payer_name ?? '',
             $this->payer_address ?? '',
             $this->payer_post ?? '',
-            sprintf('%011d', $this->amount * 100) ?? '',
+            sprintf('%011d', number_format($this->amount, 2, '', '')) ?? '',
             '',
             '',
             $this->code ?? '',
